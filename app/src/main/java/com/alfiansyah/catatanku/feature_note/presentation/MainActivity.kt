@@ -1,4 +1,4 @@
-package com.alfiansyah.catatanku
+package com.alfiansyah.catatanku.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
